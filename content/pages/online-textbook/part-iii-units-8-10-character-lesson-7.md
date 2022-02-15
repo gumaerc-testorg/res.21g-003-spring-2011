@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Online Textbooks
+ocw_type: SupplementalResourceSection
 parent_title: Online Textbook
+parent_type: SupplementalResourceSection
 parent_uid: 0e83046e-ea6e-149e-5e2f-53958a6ed9f7
 title: 'Part III: Units 8-10 / Character Lesson 7'
 uid: 5e882777-1f7c-52c8-5070-a26ba4701a68

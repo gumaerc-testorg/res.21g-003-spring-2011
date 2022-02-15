@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Online Textbooks
+ocw_type: SupplementalResourceSection
 parent_title: Online Textbook
+parent_type: SupplementalResourceSection
 parent_uid: 0e83046e-ea6e-149e-5e2f-53958a6ed9f7
 title: 'Part II: Units 5-7 / Character Lessons 4-6'
 uid: 7179d758-d0e8-355c-3a41-4a4159db68ff

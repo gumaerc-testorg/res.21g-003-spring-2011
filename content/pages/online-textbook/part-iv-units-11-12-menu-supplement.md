@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Online Textbooks
+ocw_type: SupplementalResourceSection
 parent_title: Online Textbook
+parent_type: SupplementalResourceSection
 parent_uid: 0e83046e-ea6e-149e-5e2f-53958a6ed9f7
 title: 'Part IV: Units 11-12 / Menu Supplement'
 uid: 684a679b-2f1e-da85-3506-eba9dbf2544c
