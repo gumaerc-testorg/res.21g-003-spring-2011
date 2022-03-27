@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Part I: Introduction / Units 1-4 / Character Lessons 1-3'
 parent_type: SupplementalResourceSection
+parent_uid: 0f2de959-80ac-28fe-623e-02e282a4630f
 resourcetype: Document
 title: Character Stroke Order 1
 uid: a4f5f6b4-84e7-4683-573b-b08b2d06a528

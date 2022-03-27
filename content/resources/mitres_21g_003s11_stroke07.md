@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Part III: Units 8-10 / Character Lesson 7'
 parent_type: SupplementalResourceSection
+parent_uid: 5e882777-1f7c-52c8-5070-a26ba4701a68
 resourcetype: Document
 title: Character Stroke Order 7
 uid: 3501ead3-3106-24dd-24d3-3611923f94e1

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Part II: Units 5-7 / Character Lessons 4-6'
 parent_type: SupplementalResourceSection
+parent_uid: 7179d758-d0e8-355c-3a41-4a4159db68ff
 resourcetype: Document
 title: Unit 7
 uid: 9ac5a3ef-1007-db50-6445-16dee9a1d249

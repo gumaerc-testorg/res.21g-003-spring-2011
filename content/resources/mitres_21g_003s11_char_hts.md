@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Online Textbook
 parent_type: SupplementalResourceSection
+parent_uid: 0e83046e-ea6e-149e-5e2f-53958a6ed9f7
 resourcetype: Document
 title: Highlights of Character Lessons 1-7
 uid: 31d70b15-07af-0fda-7044-306b356df3d0

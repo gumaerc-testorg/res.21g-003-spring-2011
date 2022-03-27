@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Part II: Units 5-7 / Character Lessons 4-6'
 parent_type: SupplementalResourceSection
+parent_uid: 7179d758-d0e8-355c-3a41-4a4159db68ff
 resourcetype: Document
 title: Character Stroke Order 6
 uid: 7dc83159-7d90-a922-f5a7-b5f7e66dcbc0

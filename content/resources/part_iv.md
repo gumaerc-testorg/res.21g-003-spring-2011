@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Part IV: Units 11-12 / Menu Supplement'
 parent_type: SupplementalResourceSection
+parent_uid: 684a679b-2f1e-da85-3506-eba9dbf2544c
 resourcetype: Other
 title: part_IV.zip
 uid: 59cff370-41d0-5178-e1a3-84a126bef2d0

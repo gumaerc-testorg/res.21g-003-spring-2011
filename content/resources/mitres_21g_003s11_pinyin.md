@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Part I: Introduction / Units 1-4 / Character Lessons 1-3'
 parent_type: SupplementalResourceSection
+parent_uid: 0f2de959-80ac-28fe-623e-02e282a4630f
 resourcetype: Document
 title: 'Sounds and symbols: An overview of pinyin'
 uid: 01af9a25-b804-b7d5-8a26-fa580691df4f

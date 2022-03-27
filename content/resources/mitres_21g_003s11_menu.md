@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Part IV: Units 11-12 / Menu Supplement'
 parent_type: SupplementalResourceSection
+parent_uid: 684a679b-2f1e-da85-3506-eba9dbf2544c
 resourcetype: Document
 title: "The Chinese Menu (Zh\u014Dnggu\xF3 c\xE0id\u0101n)"
 uid: 693b21cf-4163-e757-9d4f-303385b4b09c

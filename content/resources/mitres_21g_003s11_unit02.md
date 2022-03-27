@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Part I: Introduction / Units 1-4 / Character Lessons 1-3'
 parent_type: SupplementalResourceSection
+parent_uid: 0f2de959-80ac-28fe-623e-02e282a4630f
 resourcetype: Document
 title: Unit 2
 uid: 533eaf6e-b819-cabf-6473-006586f6ab86

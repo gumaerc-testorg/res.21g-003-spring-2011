@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Online Textbook
 parent_type: SupplementalResourceSection
+parent_uid: 0e83046e-ea6e-149e-5e2f-53958a6ed9f7
 resourcetype: Document
 title: Acknowledgments and Preface
 uid: b3dc5750-0a4c-ccbb-985f-5bbed48ccaf4
