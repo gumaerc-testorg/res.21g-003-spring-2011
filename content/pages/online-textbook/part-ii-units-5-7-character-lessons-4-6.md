@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains a table listing the contents and files related
+  to each chapter in Part II.
 learning_resource_types:
 - Online Textbooks
 ocw_type: SupplementalResourceSection
@@ -12,7 +14,7 @@ uid: 7179d758-d0e8-355c-3a41-4a4159db68ff
 
 Each section and recording in Part II is available as an individual file, as well as a single download.
 
-Complete Part II text and audio ([ZIP]({{< baseurl >}}/resources/part_ii))
+Complete Part II text and audio ({{% resource_link dc44a03c-a4bb-50ac-83bb-7cd034259610 "ZIP" %}})
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -47,9 +49,9 @@ _Characters 4_
 {{< tdopen >}}
 
 
-Lesson ([PDF]({{< baseurl >}}/resources/mitres_21g_003s11_char04))
+Lesson ({{% resource_link 1a42c42b-09b2-f74c-35bd-155172d7e483 "PDF" %}})
 
-Stroke Order ([PDF]({{< baseurl >}}/resources/mitres_21g_003s11_stroke04))
+Stroke Order ({{% resource_link e094f830-4878-f1a7-f838-c1c01d80ba99 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -84,19 +86,19 @@ _Unit 5_
 {{< tdopen >}}
 
 
-Chapter ([PDF]({{< baseurl >}}/resources/mitres_21g_003s11_unit05))
+Chapter ({{% resource_link 4b76c3d5-e014-f483-3ef5-efa2642b58ae "PDF" %}})
 
-5.1 Tone contrasts ([MP3]({{< baseurl >}}/resources/5-1))
+5.1 Tone contrasts ({{% resource_link 18976b66-6100-0295-c00b-132f8edb0d85 "MP3" %}})
 
-5.4.1 Ordering in a restaurant ([MP3]({{< baseurl >}}/resources/5-4-1))
+5.4.1 Ordering in a restaurant ({{% resource_link ed8ae7da-0754-807f-d843-4581e87a8026 "MP3" %}})
 
-5.6 Talking to children ([MP3]({{< baseurl >}}/resources/5-6))
+5.6 Talking to children ({{% resource_link 9a8c399a-9f86-2be2-a5d8-8d894d27e501 "MP3" %}})
 
-5.7.2 Musical preferences ([MP3]({{< baseurl >}}/resources/5-7-2))
+5.7.2 Musical preferences ({{% resource_link e3c4d4b7-2492-54d1-52c8-24dd06f4c246 "MP3" %}})
 
-5.14 Who won? ([MP3]({{< baseurl >}}/resources/5-14))
+5.14 Who won? ({{% resource_link 6dfb8e14-ef40-04b0-1627-b1c3919907f7 "MP3" %}})
 
-5.15 Pronunciation ([MP3]({{< baseurl >}}/resources/5-15))
+5.15 Pronunciation ({{% resource_link 83f38ce2-197c-274d-9bb0-2870d8d06da8 "MP3" %}})
 
 
 {{< tdclose >}}
@@ -123,9 +125,9 @@ _Characters 5_
 {{< tdopen >}}
 
 
-Lesson ([PDF]({{< baseurl >}}/resources/mitres_21g_003s11_char05))
+Lesson ({{% resource_link 2d09c550-7a35-5ed4-a4e5-134dc45c1d35 "PDF" %}})
 
-Stroke Order ([PDF]({{< baseurl >}}/resources/mitres_21g_003s11_stroke05))
+Stroke Order ({{% resource_link c3407f2c-94d0-55a4-6cfb-3e93bc981e56 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -157,11 +159,11 @@ Appendix: Chinese historical periods
 {{< tdopen >}}
 
 
-Chapter ([PDF]({{< baseurl >}}/resources/mitres_21g_003s11_unit06))
+Chapter ({{% resource_link ce12c832-10a6-eacc-170b-3034f922ddde "PDF" %}})
 
-6.3.5 Dialogues ([MP3]({{< baseurl >}}/resources/6-3-5))
+6.3.5 Dialogues ({{% resource_link 8191489c-b757-9a4b-0198-b76863f9b70f "MP3" %}})
 
-6.9 Where are you from? ([MP3]({{< baseurl >}}/resources/6-9))
+6.9 Where are you from? ({{% resource_link 5458a947-79e4-7959-d623-a70d47ebc460 "MP3" %}})
 
 
 {{< tdclose >}}
@@ -188,9 +190,9 @@ _Characters 6_
 {{< tdopen >}}
 
 
-Lesson ([PDF]({{< baseurl >}}/resources/mitres_21g_003s11_char06))
+Lesson ({{% resource_link 07799fde-3377-f93e-cfe0-fbf36e6bb77c "PDF" %}})
 
-Stroke Order ([PDF]({{< baseurl >}}/resources/mitres_21g_003s11_stroke06))
+Stroke Order ({{% resource_link 7dc83159-7d90-a922-f5a7-b5f7e66dcbc0 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -225,21 +227,21 @@ Appendix: Question words
 {{< tdopen >}}
 
 
-Chapter ([PDF]({{< baseurl >}}/resources/mitres_21g_003s11_unit07))
+Chapter ({{% resource_link 9ac5a3ef-1007-db50-6445-16dee9a1d249 "PDF" %}})
 
-7.2.4 If... ([MP3]({{< baseurl >}}/resources/7-2-4))
+7.2.4 If... ({{% resource_link 6d8635b9-ef34-8b07-68c3-9f21a45d9257 "MP3" %}})
 
-7.4 Language abilities ([MP3]({{< baseurl >}}/resources/7-4))
+7.4 Language abilities ({{% resource_link 1f3e38b7-ca8c-d80d-b39c-3582347cc0a7 "MP3" %}})
 
-7.5 Tea and coffee ([MP3]({{< baseurl >}}/resources/7-5))
+7.5 Tea and coffee ({{% resource_link e2b7260e-377b-2f71-50c7-34b5e2d1d78f "MP3" %}})
 
-7.9.2 Enduring states ([MP3]({{< baseurl >}}/resources/7-9-2))
+7.9.2 Enduring states ({{% resource_link 07c9784c-65a3-98c9-ebf7-a94cdf89b783 "MP3" %}})
 
-7.11 Talking about weather ([MP3]({{< baseurl >}}/resources/7-11))
+7.11 Talking about weather ({{% resource_link 60302020-1831-47b2-ff86-d8b494e2c660 "MP3" %}})
 
-7.13 A letter home ([MP3]({{< baseurl >}}/resources/7-13))
+7.13 A letter home ({{% resource_link 83b1b5c6-6124-5bc9-5d3e-97b03e580351 "MP3" %}})
 
-7.14 Pronunciation practice ([MP3]({{< baseurl >}}/resources/7-14))
+7.14 Pronunciation practice ({{% resource_link 44011dc6-c4c4-c698-e909-55f2f5f1f8f5 "MP3" %}})
 
 
 {{< tdclose >}}

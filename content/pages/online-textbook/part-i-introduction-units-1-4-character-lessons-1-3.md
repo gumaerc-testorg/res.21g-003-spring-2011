@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains a table listing the contents and files related
+  to each chapter in Part I.
 learning_resource_types:
 - Online Textbooks
 ocw_type: SupplementalResourceSection
@@ -12,7 +14,7 @@ uid: 0f2de959-80ac-28fe-623e-02e282a4630f
 
 Each section and recording in Part I is available as an individual file, as well as a single download. Additional [audio and other supplemental files](https://yalebooks.yale.edu/book/resources/learning-chinese-resources-0#2126-2131) are available with purchase of this textbook.
 
-Complete Part I text and audio ([ZIP]({{< baseurl >}}/resources/part_i))
+Complete Part I text and audio ({{% resource_link 558dd621-0a92-84e8-b207-1d971b6be4f6 "ZIP" %}})
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -42,7 +44,7 @@ _Background_
 
 {{< tdclose >}}
 {{< tdopen >}}
-Chapter ([PDF]({{< baseurl >}}/resources/mitres_21g_003s11_bgd))
+Chapter ({{% resource_link fb58b03b-b67c-7c92-fbc5-b74b4c18aa1d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -65,11 +67,11 @@ _Sounds and symbols: An overview of pinyin_
 {{< tdopen >}}
 
 
-Chapter ([PDF]({{< baseurl >}}/resources/mitres_21g_003s11_pinyin))
+Chapter ({{% resource_link 01af9a25-b804-b7d5-8a26-fa580691df4f "PDF" %}})
 
-0.2.3 The low-tone ([MP3]({{< baseurl >}}/resources/0-2-3))
+0.2.3 The low-tone ({{% resource_link ddd869cf-5c28-05a9-0793-f89c78b7bd79 "MP3" %}})
 
-0.3.1 The consonant chart ([MP3]({{< baseurl >}}/resources/0-3-1))
+0.3.1 The consonant chart ({{% resource_link 8d96796a-a904-ec8f-974c-7a018bb0ade0 "MP3" %}})
 
 
 {{< tdclose >}}
@@ -99,13 +101,13 @@ _Unit 1_
 {{< tdopen >}}
 
 
-Chapter ([PDF]({{< baseurl >}}/resources/mitres_21g_003s11_unit01))
+Chapter ({{% resource_link e997e90b-b0ac-79ea-7d75-c3d2f5fcf8b7 "PDF" %}})
 
-1.10.1 Tone combos (the first 6) ([MP3]({{< baseurl >}}/resources/1-10-1))
+1.10.1 Tone combos (the first 6) ({{% resource_link 567f4765-88fe-2e37-35d7-8a8477be03dd "MP3" %}})
 
-Exercise 3c ([MP3]({{< baseurl >}}/resources/1-10_ex3c))
+Exercise 3c ({{% resource_link 326e8932-4f6f-e347-24c1-7bfddd86523b "MP3" %}})
 
-Exercise 3d,e ([MP3]({{< baseurl >}}/resources/1-10_ex3de))
+Exercise 3d,e ({{% resource_link 08797148-887a-4c0e-b067-a5e648d1a8e5 "MP3" %}})
 
 
 {{< tdclose >}}
@@ -136,9 +138,9 @@ _Characters 1_
 {{< tdopen >}}
 
 
-Lesson ([PDF]({{< baseurl >}}/resources/mitres_21g_003s11_char01))
+Lesson ({{% resource_link 5d7516ae-fe6b-f45d-fb04-5687830fe27f "PDF" %}})
 
-Stroke Order ([PDF]({{< baseurl >}}/resources/mitres_21g_003s11_stroke01))
+Stroke Order ({{% resource_link a4f5f6b4-84e7-4683-573b-b08b2d06a528 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -169,15 +171,15 @@ _Unit 2_
 {{< tdopen >}}
 
 
-Chapter ([PDF]({{< baseurl >}}/resources/mitres_21g_003s11_unit02))
+Chapter ({{% resource_link 533eaf6e-b819-cabf-6473-006586f6ab86 "PDF" %}})
 
-2.4 Nouns and modification ([MP3]({{< baseurl >}}/resources/2-4))
+2.4 Nouns and modification ({{% resource_link 3777e246-2bce-170f-b047-9e8997dd9eb2 "MP3" %}})
 
-2.7.1 Some Chinese place names ([MP3]({{< baseurl >}}/resources/2-7-1))
+2.7.1 Some Chinese place names ({{% resource_link efaadeac-e863-5eaf-98e4-b3620d7f4fc5 "MP3" %}})
 
-2.9 At the airport ([MP3]({{< baseurl >}}/resources/2-9))
+2.9 At the airport ({{% resource_link 7e5ee3d7-ad6e-452e-4c8c-a8b3da307a3c "MP3" %}})
 
-2.11.3 Tone combos (the next 6) ([MP3]({{< baseurl >}}/resources/2-11-3))
+2.11.3 Tone combos (the next 6) ({{% resource_link b381b395-6bf0-bfcd-c3f7-9e9da998da33 "MP3" %}})
 
 
 {{< tdclose >}}
@@ -203,9 +205,9 @@ _Characters 2_
 {{< tdopen >}}
 
 
-Lesson ([PDF]({{< baseurl >}}/resources/mitres_21g_003s11_char02))
+Lesson ({{% resource_link 97915adb-cca4-3231-9d87-93d2530e5768 "PDF" %}})
 
-Stroke Order ([PDF]({{< baseurl >}}/resources/mitres_21g_003s11_stroke02))
+Stroke Order ({{% resource_link 8e5447f5-f9f7-eac9-067d-77137f6a091d "PDF" %}})
 
 
 {{< tdclose >}}
@@ -239,15 +241,15 @@ Appendix: Countries and nationalities
 {{< tdopen >}}
 
 
-Chapter ([PDF]({{< baseurl >}}/resources/mitres_21g_003s11_unit03))
+Chapter ({{% resource_link 7413ef60-3a88-dea4-5792-8c1f6f8230bc "PDF" %}})
 
-3.4.1 Dialogues ([MP3]({{< baseurl >}}/resources/3-4-1))
+3.4.1 Dialogues ({{% resource_link 30e6f7a7-d59b-2286-63a6-1b3db337a0de "MP3" %}})
 
-3.7.1 Dialogue ([MP3]({{< baseurl >}}/resources/3-7-1))
+3.7.1 Dialogue ({{% resource_link 6fa04dfa-7f80-d182-88bd-54293de5df32 "MP3" %}})
 
-3.12 Courses and classes ([MP3]({{< baseurl >}}/resources/3-12))
+3.12 Courses and classes ({{% resource_link 780cec8a-0553-ab8d-be18-717784cb213a "MP3" %}})
 
-3.13.1 Tone combos (the last 3) ([MP3]({{< baseurl >}}/resources/3-13-1))
+3.13.1 Tone combos (the last 3) ({{% resource_link 7a162687-6554-2436-676b-ae5c29e12b06 "MP3" %}})
 
 
 {{< tdclose >}}
@@ -273,9 +275,9 @@ _Characters 3_
 {{< tdopen >}}
 
 
-Lesson ([PDF]({{< baseurl >}}/resources/mitres_21g_003s11_char03))
+Lesson ({{% resource_link a6720b22-0f22-7f0e-1480-dac9f8403ace "PDF" %}})
 
-Stroke Order ([PDF]({{< baseurl >}}/resources/mitres_21g_003s11_stroke03))
+Stroke Order ({{% resource_link 0723d792-115a-cd62-7d48-a4b446f7a8a3 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -309,13 +311,13 @@ Appendix 2: The 45 most common surnames
 {{< tdopen >}}
 
 
-Chapter ([PDF]({{< baseurl >}}/resources/mitres_21g_003s11_unit04))
+Chapter ({{% resource_link d235cb30-3b7d-11e1-e24c-dcd322ac15bc "PDF" %}})
 
-4.2.1 Places ([MP3]({{< baseurl >}}/resources/4-2-1))
+4.2.1 Places ({{% resource_link 6b5da984-3a31-c5bb-8a42-1ff97786e5d4 "MP3" %}})
 
-4.10 On the bus to Miányáng ([MP3]({{< baseurl >}}/resources/4-10))
+4.10 On the bus to Miányáng ({{% resource_link dcdd4754-670b-ed1c-6e2f-ab7e52bd8d68 "MP3" %}})
 
-4.11.1 Two short narratives ([MP3]({{< baseurl >}}/resources/4-11-1))
+4.11.1 Two short narratives ({{% resource_link 5f812c56-188c-f3b5-089e-370d638356d1 "MP3" %}})
 
 
 {{< tdclose >}}
