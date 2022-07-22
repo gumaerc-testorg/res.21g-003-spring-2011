@@ -5,6 +5,7 @@ file: /courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spri
 file_type: application/pdf
 learning_resource_types:
 - Online Textbooks
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Online Textbook
 parent_type: SupplementalResourceSection
@@ -14,4 +15,3 @@ title: Table of Contents
 uid: 2b54a654-efa4-99bd-a977-ef90772e9be7
 ---
 This resource contains the information regarding table of contents.
-

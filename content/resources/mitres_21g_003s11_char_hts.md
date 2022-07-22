@@ -6,6 +6,7 @@ file: /courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spri
 file_type: application/pdf
 learning_resource_types:
 - Online Textbooks
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Online Textbook
 parent_type: SupplementalResourceSection
@@ -15,4 +16,3 @@ title: Highlights of Character Lessons 1-7
 uid: 31d70b15-07af-0fda-7044-306b356df3d0
 ---
 This resource contains the information regarding highlights of character lessons 1-7.
-

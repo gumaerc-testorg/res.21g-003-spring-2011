@@ -6,6 +6,7 @@ file: /courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spri
 file_type: application/pdf
 learning_resource_types:
 - Online Textbooks
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Online Textbook
 parent_type: SupplementalResourceSection
@@ -15,4 +16,3 @@ title: Calligraphy practice grid
 uid: 360fd541-04f3-cf7e-bfc8-10fffb00f6d7
 ---
 This resource contains the information regarding calligraphy practice grid.
-
