@@ -3,9 +3,10 @@ content_type: resource
 description: This resource contains the information regarding calligraphy practice
   grid.
 file: /courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/360fd54104f3cf7ebfc810fffb00f6d7_MITRES_21G_003S11_grid.pdf
+file_size: 119017
 file_type: application/pdf
 learning_resource_types:
-- Online Textbooks
+- Online Textbook
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Online Textbook
