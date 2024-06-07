@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding character lesson 1.
 file: /courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/5d7516aefe6bf45dfb045687830fe27f_MITRES_21G_003S11_char01.pdf
+file_size: 463206
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

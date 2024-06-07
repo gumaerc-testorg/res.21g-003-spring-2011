@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information regarding character stroke order
   4.
 file: /courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/e094f8304878f1a7f838c1c01d80ba99_MITRES_21G_003S11_stroke04.pdf
+file_size: 221682
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
