@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding unit 10.
-file: /ol-ocw-studio-app/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/d8ba98f52de3d20fe7096e9f1fb74839_MITRES_21G_003S11_unit10.pdf
+file: /courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/d8ba98f52de3d20fe7096e9f1fb74839_MITRES_21G_003S11_unit10.pdf
 file_size: 1231995
 file_type: application/pdf
 learning_resource_types: []
