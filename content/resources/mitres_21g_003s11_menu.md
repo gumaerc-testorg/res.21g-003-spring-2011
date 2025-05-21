@@ -2,7 +2,7 @@
 content_type: resource
 description: "This resource contains the information regarding the chinese menu (Zh\u014D\
   nggu\xF3 c\xE0id\u0101n)."
-file: /ol-ocw-studio-app/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/693b21cf4163e7579d4f303385b4b09c_MITRES_21G_003S11_menu.pdf
+file: /courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/693b21cf4163e7579d4f303385b4b09c_MITRES_21G_003S11_menu.pdf
 file_size: 822158
 file_type: application/pdf
 learning_resource_types: []
