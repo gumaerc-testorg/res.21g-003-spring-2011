@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding acknowledgments and
   preface.
-file: /ol-ocw-studio-app/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/b3dc57500a4cccbb985f5bbed48ccaf4_MITRES_21G_003S11_ack_pfe.pdf
+file: /courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/b3dc57500a4cccbb985f5bbed48ccaf4_MITRES_21G_003S11_ack_pfe.pdf
 file_size: 376366
 file_type: application/pdf
 learning_resource_types:
