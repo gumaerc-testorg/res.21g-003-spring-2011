@@ -35,9 +35,10 @@
     "website": "res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011"
   },
   "learning_resource_types": [
-    "Online Textbook"
+    "Open Textbooks"
   ],
   "site_uid": "3125a07f-1796-4907-a533-2f5358bfcaae",
   "site_short_id": "res.21g-003-spring-2011",
+  "site_url_path": "courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011",
   "title": "Course Metadata"
 }
