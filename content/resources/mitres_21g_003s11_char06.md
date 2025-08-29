@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding character lesson 6.
-file: /courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/07799fde3377f93ecfe0fbf36e6bb77c_MITRES_21G_003S11_char06.pdf
+file: /ol-ocw-studio-app/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/07799fde3377f93ecfe0fbf36e6bb77c_MITRES_21G_003S11_char06.pdf
 file_size: 680076
 file_type: application/pdf
 learning_resource_types: []
