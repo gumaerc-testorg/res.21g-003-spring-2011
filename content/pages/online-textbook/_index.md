@@ -4,7 +4,7 @@ description: This section contains information about the text, a link to the 2nd
   and additional resources for students.
 draft: false
 learning_resource_types:
-- Online Textbook
+- Open Textbooks
 ocw_type: SupplementalResourceSection
 title: Online Textbook
 uid: 0e83046e-ea6e-149e-5e2f-53958a6ed9f7
