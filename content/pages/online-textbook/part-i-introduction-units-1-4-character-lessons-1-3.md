@@ -12,7 +12,7 @@ title: 'Part I: Introduction / Units 1-4 / Character Lessons 1-3'
 uid: 0f2de959-80ac-28fe-623e-02e282a4630f
 ---
 
-Each section and recording in Part I is available as an individual file, as well as a single download. Additional {{% resource_link "455edd58-03bf-4fbf-a441-0b7d24b367be" "audio and other supplemental files" %}} are available with purchase of this textbook.
+Each section and recording in Part I is available as an individual file, as well as a single download. Additional [audio and other supplemental files](https://yalebooks.yale.edu/book/resources/learning-chinese-resources-0#2126-2131) are available with purchase of this textbook.
 
 Complete Part I text and audio ({{% resource_link 558dd621-0a92-84e8-b207-1d971b6be4f6 "ZIP" %}})
 
